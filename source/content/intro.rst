@@ -1,0 +1,7 @@
+#################################################################
+Introduction
+#################################################################
+
+The Gravity Recovery and Climate Experiment Follow-on (GRACE-FO) mission succeeds the GRACE mission, which launched on March 17, 2002. In more than 15 years of operation, GRACE provided pioneering observations of global mass flux that significantly contributed to our understanding of large-scale changes in polar ice, soil moisture, surface and ground water storage, and ocean mass distribution. GRACE-FO launched on May 21, 2018, and its primary mission goal is to continue the tracking of Earth's mass movements and changes, in particular those related to water. The GRACE-FO mission is a partnership between NASA and the German Research Centre for Geosciences (GFZ). 
+This GRACE-FO Level-3 Data Handbook is designed to guide both experienced and beginner users in understanding and using Level-3 GRACE and GRACE-FO data products. The three main objectives of this document are to, 1) provide an overview of the GRACE-FO mission including the instrument design, science data processing, and calibration and validation procedures, 2) provide a description of the available Level-3 GRACE-FO data products and featured science and applications of Level-3 GRACE and GRACE-FO data, and 3) provide a set of step by step, reproducible use cases intended to serve as a reference for users who are interested in GRACE-FO Level-3 data products. 
+

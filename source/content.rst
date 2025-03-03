@@ -7,4 +7,7 @@ This Handbook is designed to guide both experienced and beginner users in unders
    :maxdepth: 2
    :caption: Contents:
     
-   intro/chapter1.rst
+   content/intro.rst
+   content/instrument.rst
+   content/sds_processing.rst
+   content/references.rst
