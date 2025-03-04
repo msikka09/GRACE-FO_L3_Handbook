@@ -17,12 +17,7 @@ documentation for details.
 
    content.rst
 
-.. toctree::
-   :maxdepth: 2
-   :caption: Plotting & Interpolation
-
-   ECCO_v4_Plotting_Tiles.ipynb
-     
+   
 Indices and tables
 ==================
 
