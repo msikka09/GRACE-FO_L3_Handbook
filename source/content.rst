@@ -10,4 +10,8 @@ This Handbook is designed to guide both experienced and beginner users in unders
    content/intro.rst
    content/instrument.rst
    content/sds_processing.rst
+   content/sds_calval.rst
+   content/level3_data_products.rst
+   content/grace_science_and_applications.rst
+   content/user_guidelines.rst
    content/references.rst

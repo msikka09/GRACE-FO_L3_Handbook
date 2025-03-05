@@ -1,5 +1,5 @@
 #################################################################
-Instrument Design
+2. Instrument Design
 #################################################################
 
 The instruments on GRACE and GRACE-FO were designed to enable measurements of the mean and time-variable components of the Earth’s gravity field variations. They can detect gravitational differences on the planet's surface equivalent to that of a 300-km disk of water only one centimeter thick. GRACE-FO uses the same method to measure gravitational fields as the GRACE mission. Unique to the GRACE missions, the two satellites are the measurement instrument. GRACE-FO’s two satellites follow each other in orbit around the Earth, separated by about 137 miles (220 km). Small changes in the distance between the two satellites, which result from the variable pull of gravity on each as they pass over the Earth’s surface, make up the measurement. Both satellites are capable of flying either in the lead or trailing positions, forward or backward into the residual atmospheric wind. The mass of each GRACE-FO satellite is approximately 600 kg, including about 30 kg of nitrogen fuel propellant used for orbit control maneuvers.
