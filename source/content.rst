@@ -15,3 +15,5 @@ This Handbook is designed to guide both experienced and beginner users in unders
    content/grace_science_and_applications.rst
    content/user_guidelines.rst
    content/references.rst
+   content/abbreviations.rst
+
