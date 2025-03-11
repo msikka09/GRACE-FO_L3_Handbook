@@ -14,15 +14,17 @@ Landerer et al. (2015) present the first measurements of Lower North Atlantic De
 Summary of Steps:
 ===================================
 
-#. 1. Download the data:
-   #. a. Level-3 gridded Mascon Terrestrial Water Storage anomalies data from GRACE Tellus website
-   #. b. Ocean mask available in same file along with gridded Mascon data 
+1. Download the data:
+   a. Level-3 gridded Mascon Terrestrial Water Storage anomalies data from GRACE Tellus website
+   b. Ocean mask available in same file along with gridded Mascon data 
 
-#. 2. Use GRACE ocean bottom pressure (OBP) mascons to characterize AMOC variations.
-   #. c. Derive the meridional transport T(y,z)  at a particular latitude (y) and depth (z) by dividing the zonal bottom pressure differences P_E  (y,z) and P_W  (y,z) at the eastern and western basin boundaries by the Coriolis parameter (f) and the mean sea water density (ρ_0):
-                T(y,z)=  (P_E  (y,z)- P_W  (y,z))/(ρ_0 f)
-    #.d. Integrating this between depth levels z1 and z2 yields the layer geostrophic AMOC volume transport from ocean bottom pressure data across the ocean basin:
-                T(y)=  1/(ρ_0 f) ∫_z1^z2▒〖P_E  (y,z)- P_W  (y,z) 〗  dz
+2. Use GRACE ocean bottom pressure (OBP) mascons to characterize AMOC variations.
+   a. Derive the meridional transport T(y,z)  at a particular latitude (y) and depth (z) by dividing the zonal bottom pressure differences P_E  (y,z) and P_W  (y,z) at the eastern and western basin boundaries by the Coriolis parameter (f) and the mean sea water density (ρ_0):
+                .. math::
+                    T(y,z)=  (P_E (y,z)- P_W (y,z))/(ρ_0 f)
+   b. Integrating this between depth levels z1 and z2 yields the layer geostrophic AMOC volume transport from ocean bottom pressure data across the ocean basin:
+                .. math::
+                    T(y)=  1/(ρ_0 f) \int_{z1}^{z2} P_E (y,z) - P_W (y,z) \, dz
 
 The approach taken by Landerer et al. (2015) focuses on OBP anomalies in the layer of depth between 3000 m to 5000 m. The focus is on this layer because (1) it has a sufficiently large horizontal extent that can be resolved by GRACE, (2) it is relatively far away from land to avoid hydrological signal leakage, and (3) it corresponds to the so‐called Lower North Atlantic Deep Water layer that is observed with the RAPID‐MOCHA array. The step‐like bathymetry from 3000 to 5000 m along the western boundary implies that the bottom pressure gradients here will contribute most to the zonally averaged transport. More gently sloping topography would require additional information.
 
