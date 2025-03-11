@@ -8,12 +8,17 @@ The National Research Council (NRC), led by the Space Studies Board in collabora
 
 ESAS 2017 presents a prioritized list of top-level science and application objectives to guide space-based Earth observations. From among hundreds suggested, ESAS 2017 addresses 35 key science and applications questions. Uses of GRACE and GRACE-FO data span all six categories that the 35 most important science and applications questions fall into: 
 
-- Coupling of the Water and Energy Cycles
-- Ecosystem Change
-- Extending & Improving Weather and Air Quality Forecasts 
-- Sea Level Rise
-- Reducing Climate Uncertainty & Informing Societal Response
-- Surface Dynamics, Geological Hazards and Disasters
+a).  Coupling of the Water and Energy Cycles
+
+b).  Ecosystem Change
+
+c).  Extending & Improving Weather and Air Quality Forecasts 
+
+d).  Sea Level Rise
+
+e).  Reducing Climate Uncertainty & Informing Societal Response
+
+f).  Surface Dynamics, Geological Hazards and Disasters
 
 Sections 6.2 through 6.10 illustrate key GRACE and GRACE-FO science and applications. Each of the featured advancements made in science and applications with GRACE and GRACE-FO data connects with one or more of the six priority categories the ESAS 2017 reports highlights. 
 
