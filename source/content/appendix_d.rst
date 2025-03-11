@@ -1,6 +1,6 @@
-############################################################################################
+#############################################
 Appendix D: Ocean Currents and Transport
-############################################################################################
+#############################################
 
 NOTE: This use case does not go as in-depth as the others. For more information on how to replicate the steps highlighted below, please refer to Landerer et a. (2015).
 
@@ -15,14 +15,21 @@ Summary of Steps:
 ===================================
 
 1. Download the data:
+   
    a. Level-3 gridded Mascon Terrestrial Water Storage anomalies data from GRACE Tellus website
+   
    b. Ocean mask available in same file along with gridded Mascon data 
 
+
 2. Use GRACE ocean bottom pressure (OBP) mascons to characterize AMOC variations.
-   a. Derive the meridional transport T(y,z)  at a particular latitude (y) and depth (z) by dividing the zonal bottom pressure differences P_E  (y,z) and P_W  (y,z) at the eastern and western basin boundaries by the Coriolis parameter (f) and the mean sea water density (ρ_0):
+   
+   c. Derive the meridional transport T(y,z)  at a particular latitude (y) and depth (z) by dividing the zonal bottom pressure differences P_E  (y,z) and P_W  (y,z) at the eastern and western basin boundaries by the Coriolis parameter (f) and the mean sea water density (ρ_0):
+                
                 .. math::
                     T(y,z)=  (P_E (y,z)- P_W (y,z))/(ρ_0 f)
-   b. Integrating this between depth levels z1 and z2 yields the layer geostrophic AMOC volume transport from ocean bottom pressure data across the ocean basin:
+   
+   d. Integrating this between depth levels z1 and z2 yields the layer geostrophic AMOC volume transport from ocean bottom pressure data across the ocean basin:
+                
                 .. math::
                     T(y)=  1/(ρ_0 f) \int_{z1}^{z2} P_E (y,z) - P_W (y,z) \, dz
 
