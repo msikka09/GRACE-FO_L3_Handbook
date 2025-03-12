@@ -16,6 +16,7 @@ This Handbook is designed to guide both experienced and beginner users in unders
    content/user_guidelines.rst
    content/references.rst
    content/abbreviations.rst
+   content/appendix_a.rst
    content/appendix_b.rst
    content/appendix_c.rst
    content/appendix_d.rst
