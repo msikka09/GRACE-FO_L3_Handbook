@@ -29,3 +29,12 @@ master_doc = 'index'
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+html_logo = "_static/GRACE_FO_logo.png"
+html_theme_options = {
+    'logo_only': True,
+	'collapse_navigation': True,
+    'sticky_navigation': True,
+    'navigation_depth': 4,
+    'includehidden': True,
+    'titles_only': False
+}
