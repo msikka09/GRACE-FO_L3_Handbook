@@ -5,7 +5,7 @@ This Handbook is designed to guide both experienced and beginner users in unders
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: GRACE-FO:
     
    content/intro.rst
    content/instrument.rst
@@ -20,5 +20,5 @@ This Handbook is designed to guide both experienced and beginner users in unders
    content/appendix_b.rst
    content/appendix_c.rst
    content/appendix_d.rst
-
+   content/about_grace
 
