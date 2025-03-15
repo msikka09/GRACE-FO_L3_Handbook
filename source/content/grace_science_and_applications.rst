@@ -1,5 +1,5 @@
 #################################################################
-6. Featured GRACE and GRACE-FO Science and Applications   
+Featured GRACE and GRACE-FO Science and Applications   
 #################################################################
 
 6.1 2017 ESAS Decadal Survey Priorities 

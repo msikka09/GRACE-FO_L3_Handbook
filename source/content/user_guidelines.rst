@@ -1,5 +1,5 @@
 #################################################################
-7. Level-3 Data Access, User Guidelines, and use cases 
+Level-3 Data Access, User Guidelines, and use cases 
 #################################################################
 
 7.1 Data Description

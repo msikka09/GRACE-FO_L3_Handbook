@@ -1,5 +1,5 @@
 #################################################################
-4. Science Data Calibration and Validation 
+Science Data Calibration and Validation 
 #################################################################
 
 Unlike most NASA Earth Observing missions, it is not possible for GRACE and GRACE-FO science measurements to be directly calibrated to ground measurements. For example, missions that measure specific regions in the electromagnetic spectrum use a radiometer for calibration, there is no equivalent instrument to calibrate the gravity-related range rate measurements. 

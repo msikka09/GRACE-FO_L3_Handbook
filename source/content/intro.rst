@@ -1,5 +1,5 @@
 #################################################################
-1. Introduction
+Introduction
 #################################################################
 
 The Gravity Recovery and Climate Experiment Follow-on (GRACE-FO) mission succeeds the GRACE mission, which launched on March 17, 2002. In more than 15 years of operation, GRACE provided pioneering observations of global mass flux that significantly contributed to our understanding of large-scale changes in polar ice, soil moisture, surface and ground water storage, and ocean mass distribution. GRACE-FO launched on May 21, 2018, and its primary mission goal is to continue the tracking of Earth's mass movements and changes, in particular those related to water. The GRACE-FO mission is a partnership between NASA and the German Research Centre for Geosciences (GFZ). 

@@ -1,5 +1,5 @@
 #################################################################
-3. GRACE-FO Science Data Processing System
+GRACE-FO Science Data Processing System
 #################################################################
 
 Since GRACE's launch in March 2002, the official GRACE Science Data System (SDS)

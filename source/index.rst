@@ -15,9 +15,22 @@ documentation for details.
    :maxdepth: 3
    :caption: Contents:
 
-   content.rst
+   content/intro.rst
+   content/instrument.rst
+   content/sds_processing.rst
+   content/sds_calval.rst
+   content/level3_data_products.rst
+   content/grace_science_and_applications.rst
+   content/user_guidelines.rst
+   content/references.rst
+   content/abbreviations.rst
+   content/appendix_a.rst
+   content/appendix_b.rst
+   content/appendix_c.rst
+   content/appendix_d.rst
+   content/about_grace
 
-   
+
 Indices and tables
 ==================
 
