@@ -28,8 +28,13 @@ documentation for details.
    content/appendix_b.rst
    content/appendix_c.rst
    content/appendix_d.rst
-   content/about_grace
 
+.. toctree::
+   :maxdepth: 2
+   :caption: Jupyter Notebooks:
+
+   content/about_grace
+   tutorials_as_jupyter_notebooks/Tellus_GRACE_TWS_basin_mean
 
 Indices and tables
 ==================
