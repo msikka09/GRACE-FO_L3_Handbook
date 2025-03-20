@@ -2,6 +2,8 @@
 Appendix A: Water Storage Anomalies over the Colorado River Basin
 ############################################################################################
 
+See the related jupyter notebook : :doc:`../tutorials_as_jupyter_notebooks/Tellus_GRACE_TWS_basin_mean`
+
 **Step 1**
 
 
