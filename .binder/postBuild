@@ -1,5 +1,5 @@
 #!/bin/bash
 # Install heavier packages after environment.yml is processed
 
-mamba install gdal cartopy shapefile statsmodels -c conda-forge -y
+mamba install gdal cartopy pyshp statsmodels -c conda-forge -y
 
