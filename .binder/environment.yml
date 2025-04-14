@@ -1,0 +1,20 @@
+name: gracefo-binder
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - xarray
+  - netcdf4
+  - jupyterlab
+  - ipykernel
+  - fsspec
+  - s3fs
+  - pip
+  - pip:
+      - sphinx
+      - sphinx-rtd-theme
+      - nbsphinx
+

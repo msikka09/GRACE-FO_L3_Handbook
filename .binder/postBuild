@@ -1,0 +1,3 @@
+#!/bin/bash
+# Install heavy packages separately
+mamba install gdal cartopy shapefile statsmodels -c conda-forge -y
