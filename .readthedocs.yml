@@ -4,8 +4,9 @@ build:
   os: ubuntu-22.04
   tools:
     python: "3.9"
-  environment: 
-    environment: .binder/environment.yml  # or your custom YAML path
+    
+conda:
+  environment: .binder/environment.yml  # or your custom YAML path
 
 sphinx:
   configuration: source/conf.py
