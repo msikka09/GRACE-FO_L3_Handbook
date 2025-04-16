@@ -6,7 +6,7 @@ build:
     python: "3.9"
     
 conda:
-  environment: .binder/environment.yml  # or your custom YAML path
+  environment: environment_full.yml  # or your custom YAML path
 
 sphinx:
   configuration: source/conf.py
