@@ -28,6 +28,8 @@ documentation for details.
    content/appendix_b.rst
    content/appendix_c.rst
    content/appendix_d.rst
+   content/useful_links.rst
+   content/about_tutorials.rst
 
 .. toctree::
    :maxdepth: 2
